@@ -1,4 +1,4 @@
-🧠 NLP Assignments using NLTK, PyTorch, and Advanced Models
+#NLP Assignments using NLTK, PyTorch, and Advanced Models
 This repository contains a series of assignments for learning and practicing core Natural Language Processing (NLP) concepts using Python libraries like NLTK, scikit-learn, Gensim, and PyTorch. It spans basic tokenization, stemming, lemmatization, Bag-of-Words models, Transformer implementation from scratch, and advanced NLP tasks like sentiment analysis and N-gram-based auto-completion.
 
 📂 Assignment List
